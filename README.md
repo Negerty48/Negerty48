@@ -146,4 +146,10 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 
 ### 📊 Mis Estadísticas en GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Negerty48&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+<div align="center">
+  <!-- Tarjeta 1: Tus estadísticas generales (Súper estable, alojada en Vercel) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Negerty48&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="GitHub Stats" />
+
+  <!-- Tarjeta 2: Tu racha de GitHub (Streak) -->
+  <img src="https://streak-stats.demolab.com/?user=Negerty48&theme=tokyonight&hide_border=true&locale=es" height="150" alt="GitHub Streak" />
+</div>
