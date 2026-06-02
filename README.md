@@ -1,7 +1,7 @@
 <h1>
   Hola, soy Ángel Toledo 👋
   <a href="https://www.linkedin.com/in/%C3%A1ngel-toledo-rodelgo-784231313/" target="_blank">
-    <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
+    <img align="right" src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
   </a>
 </h1>
 
