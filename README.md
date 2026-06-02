@@ -1,4 +1,9 @@
-# Hola, soy Ángel 👋
+<h1>
+  Hola, soy Ángel Toledo 👋
+  <a href="TU_ENLACE_A_LINKEDIN" target="_blank">
+    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</h1>
 
 **Desarrollador Junior de IA y Big Data | Entusiasta del Cloud y los Datos**
 
@@ -37,10 +42,10 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 
 ### 🏆 Certificaciones Destacadas (Microsoft Azure)
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" height="32" alt="AI-102" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" height="32" alt="DP-100" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" height="32" alt="DP-300" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" height="32" alt="DP-900" />
+  <img src="https://img.shields.io/badge/Azure-AI--102-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="AI-102" />
+  <img src="https://img.shields.io/badge/Azure-DP--100-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="DP-100" />
+  <img src="https://img.shields.io/badge/Azure-DP--300-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="DP-300" />
+  <img src="https://img.shields.io/badge/Azure-DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="DP-900" />
 </p>
 
 ---
@@ -50,7 +55,7 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 **Lenguajes de Programación:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="32" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" height="32" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="32" alt="SQL" />
 </p>
 
@@ -63,7 +68,7 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 
 **Cloud & Herramientas:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" height="32" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" height="32" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="32" alt="Git" />
 </p>
@@ -72,7 +77,4 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Negerty48&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negerty48&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Negerty48&theme=vue-dark&hide_border=true&locale=es" alt="GitHub Streak" /></a>
