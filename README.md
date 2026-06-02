@@ -39,10 +39,10 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 
 ### 🏆 Certificaciones Destacadas (Microsoft Azure)
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure_AI--102-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102" />
-  <img src="https://img.shields.io/badge/Azure_DP--100-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-100" />
-  <img src="https://img.shields.io/badge/Azure_DP--300-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-300" />
-  <img src="https://img.shields.io/badge/Azure_DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900" />
+  <img src="https://img.shields.io/badge/Azure_AI--102-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="AI-102" />
+  <img src="https://img.shields.io/badge/Azure_DP--100-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="DP-100" />
+  <img src="https://img.shields.io/badge/Azure_DP--300-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="DP-300" />
+  <img src="https://img.shields.io/badge/Azure_DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="DP-900" />
 </p>
 
 ---
@@ -51,16 +51,16 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 
 **Lenguajes de Programación:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 **IA & Big Data:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Spark" />
 </p>
 
 **Cloud & Herramientas:**
