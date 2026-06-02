@@ -1,9 +1,13 @@
 <h1>
   Hola, soy Ángel Toledo 👋
-  <a href="TU_ENLACE_A_LINKEDIN" target="_blank">
-    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/%C3%A1ngel-toledo-rodelgo-784231313/" target="_blank">
+    <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
   </a>
 </h1>
+
+**Desarrollador Junior de IA y Big Data | Entusiasta del Cloud y los Datos**
+
+Soy un desarrollador especializado en la implementación de soluciones con Inteligencia Artificial, Big Data y despliegues en entornos Cloud. Me apasiona transformar datos en soluciones reales y actualmente sigo perfeccionando mis habilidades técnicas.
 
 **Desarrollador Junior de IA y Big Data | Entusiasta del Cloud y los Datos**
 
@@ -37,50 +41,110 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 ---
 
 ### 🏆 Certificaciones Destacadas (Microsoft Azure)
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-AI--102-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="AI-102" />
-  <img src="https://img.shields.io/badge/Azure-DP--100-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="DP-100" />
-  <img src="https://img.shields.io/badge/Azure-DP--300-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="DP-300" />
-  <img src="https://img.shields.io/badge/Azure-DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="DP-900" />
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ngelToledo-7401/7332C53FD0805E54?sharingId=346C0569AF171F40" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="AI-102" />
+      </a>
+      <br><b>Azure AI-102</b>
+    </td>
+    <td align="center" width="140">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/ngelToledo-7401/3C8BB42B425C60A2?sharingId=346C0569AF171F40" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="DP-100" />
+      </a>
+      <br><b>Azure DP-100</b>
+    </td>
+    <td align="center" width="140">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ngelToledo-7401/1FB221AB41A981B1?sharingId=346C0569AF171F40" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="DP-300" />
+      </a>
+      <br><b>Azure DP-300</b>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.credly.com/badges/04b07868-2be4-4e63-9d69-61d6148bf0d6/linked_in_profile" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="DP-900" />
+      </a>
+      <br><b>Azure DP-900</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-<table>
+**Lenguajes de Programación**
+<table border="0">
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+    <td align="center" width="110">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+    <td align="center" width="110">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
       <br>Java
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL" />
+    <td align="center" width="110">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL" />
+      </a>
       <br>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Spark" />
-      <br>Spark
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
     </td>
   </tr>
 </table>
 
+**IA & Big Data**
+<table border="0">
+  <tr>
+    <td align="center" width="110">
+      <a href="https://pandas.pydata.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="110">
+      <a href="https://scikit-learn.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />
+      </a>
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="110">
+      <a href="https://spark.apache.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Spark" />
+      </a>
+      <br>Spark
+    </td>
+  </tr>
+</table>
+
+**Cloud & Herramientas**
+<table border="0">
+  <tr>
+    <td align="center" width="110">
+      <a href="https://azure.microsoft.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.docker.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="110">
+      <a href="https://git-scm.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 Mis Estadísticas en GitHub
