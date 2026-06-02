@@ -141,7 +141,9 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📊 Mis Estadísticas en GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Negerty48&theme=vue-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Negerty48&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
