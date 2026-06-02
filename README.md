@@ -15,11 +15,7 @@ Soy un desarrollador especializado en la implementación de soluciones con Intel
 - 🎓 Actualmente cursando el **Máster de IA & Big Data** en colaboración con Microsoft en Tajamar.
 - 💡 Me enfoco en desarrollar proyectos técnicos que trascienden el ámbito académico.
 - ☁️ Fuertemente enfocado en el ecosistema **Azure**.
-<div align="left">
-  <a href="https://www.linkedin.com/in/%C3%A1ngel-toledo-rodelgo-784231313/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
-  </a>
-</div>
+  
 ---
 
 ### 💻 Proyectos Destacados
@@ -76,5 +72,4 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 ---
 
 ### 📊 Mis Estadísticas en GitHub
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Negerty48&theme=vue-dark&hide_border=true&locale=es" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Negerty48&theme=vue-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
