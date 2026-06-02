@@ -1,4 +1,4 @@
-# Hola, soy Ángel Toledo 👋
+# Hola, soy Ángel 👋
 
 **Desarrollador Junior de IA y Big Data | Entusiasta del Cloud y los Datos**
 
@@ -9,7 +9,7 @@ Soy un desarrollador especializado en la implementación de soluciones con Intel
 ### 🚀 Sobre mí
 - 🎓 Actualmente cursando el **Máster de IA & Big Data** en colaboración con Microsoft en Tajamar.
 - 💡 Me enfoco en desarrollar proyectos técnicos que trascienden el ámbito académico. 
-- 📫 Puedes contactarme en: [Linkedin] (https://www.linkedin.com/in/%C3%A1ngel-toledo-rodelgo-784231313/).
+- 📫 Puedes contactarme en [[Linkedin](https://www.linkedin.com/in/%C3%A1ngel-toledo-rodelgo-784231313/)].
 
 ---
 
@@ -51,6 +51,5 @@ Soy un desarrollador especializado en la implementación de soluciones con Intel
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Negerty48&theme=vue-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 </div>
