@@ -9,10 +9,6 @@
 
 Soy un desarrollador especializado en la implementación de soluciones con Inteligencia Artificial, Big Data y despliegues en entornos Cloud. Me apasiona transformar datos en soluciones reales y actualmente sigo perfeccionando mis habilidades técnicas.
 
-**Desarrollador Junior de IA y Big Data | Entusiasta del Cloud y los Datos**
-
-Soy un desarrollador especializado en la implementación de soluciones con Inteligencia Artificial, Big Data y despliegues en entornos Cloud. Me apasiona transformar datos en soluciones reales y actualmente sigo perfeccionando mis habilidades técnicas.
-
 ---
 
 ### 🚀 Sobre mí
@@ -44,7 +40,7 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 <table border="0">
   <tr>
     <td align="center" width="140">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ngelToledo-7401/7332C53FD0805E54?sharingId=346C0569AF171F40" target="_blank">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/ngelToledo-7401/7332C53FD0805E54?sharingId=346C0569AF171F40" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="AI-102" />
       </a>
       <br><b>Azure AI-102</b>
@@ -56,7 +52,7 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
       <br><b>Azure DP-100</b>
     </td>
     <td align="center" width="140">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ngelToledo-7401/1FB221AB41A981B1?sharingId=346C0569AF171F40" target="_blank">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/ngelToledo-7401/1FB221AB41A981B1?sharingId=346C0569AF171F40" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="DP-300" />
       </a>
       <br><b>Azure DP-300</b>
