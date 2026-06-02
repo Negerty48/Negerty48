@@ -146,7 +146,6 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 
 ### 📊 Mis Estadísticas en GitHub
 
-### 📊 Mis Estadísticas en GitHub
-
-[!GitHub Stats](https://github-readme-stats.vercel.app/api?username=Negerty48&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/Negerty48)
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Negerty48&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Negerty48)
+<div align="center">
+  <img src="https://metrics.lecoq.io/Negerty48?base=header,activity,community,repositories,metadata&config_timezone=Europe%2FMadrid" alt="GitHub Metrics" />
+</div>
