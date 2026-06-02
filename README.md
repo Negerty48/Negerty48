@@ -141,11 +141,3 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Negerty48?base=header,activity,community,repositories,metadata&config_timezone=Europe%2FMadrid" alt="GitHub Metrics" />
-</div>
