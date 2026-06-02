@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="https://www.linkedin.com/in/%C3%A1ngel-toledo-rodelgo-784231313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 # Hola, soy Ángel 👋
 
 **Desarrollador Junior de IA y Big Data | Entusiasta del Cloud y los Datos**
@@ -8,8 +14,26 @@ Soy un desarrollador especializado en la implementación de soluciones con Intel
 
 ### 🚀 Sobre mí
 - 🎓 Actualmente cursando el **Máster de IA & Big Data** en colaboración con Microsoft en Tajamar.
-- 💡 Me enfoco en desarrollar proyectos técnicos que trascienden el ámbito académico. 
-- 📫 Puedes contactarme en [[Linkedin](https://www.linkedin.com/in/%C3%A1ngel-toledo-rodelgo-784231313/)].
+- 💡 Me enfoco en desarrollar proyectos técnicos que trascienden el ámbito académico.
+- ☁️ Fuertemente enfocado en el ecosistema **Azure**.
+
+---
+
+### 💻 Proyectos Destacados
+
+Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evolución técnica y capacidad para resolver problemas complejos:
+
+* 🧠 **[Contexta - AI Platform](https://github.com/Negerty48/Contexta)**
+  * **Descripción:** Plataforma Full-Stack que permite crear asistentes conversacionales expertos basados en arquitectura RAG. Garantiza respuestas sin alucinaciones aislando el contexto estrictamente a los documentos proporcionados por el usuario, integrando persistencia a largo plazo y despliegue en la nube.
+  * **Stack:** `FastAPI` `React` `Azure OpenAI` `Azure AI Search` `Azure SQL` `Azure App Service`
+
+* 🎧 **[Speech Enhancement en el Dominio Complejo](https://github.com/Negerty48/voice-denoising-autoencoder)**
+  * **Descripción:** Sistema avanzado de supresión de ruido y mejora de voz basado en Deep Learning. Implementa un Autoencoder convolucional bi-canal que opera en el plano complejo para evitar el colapso matemático (*Phase Wrapping*), estabilizando de forma nativa la reconstrucción acústica de magnitud y fase.
+  * **Stack:** `Deep Learning` `Python` `Procesamiento de Señales (STFT/ISTFT)`
+
+* 👗 **[SnapWear: Búsqueda Visual de Moda con IA](https://github.com/Negerty48/SnapWear)**
+  * **Descripción:** Motor de búsqueda visual para e-commerce que revoluciona la experiencia de usuario permitiendo buscar prendas por similitud fotográfica en lugar de mediante etiquetas de texto. Integra modelos de segmentación y extracción de embeddings sobre una base de datos vectorial.
+  * **Stack:** `Next.js` `FastAPI` `YOLO` `FashionCLIP` `PostgreSQL (pgvector)` `Azure Blob Storage`
 
 ---
 
@@ -49,7 +73,4 @@ Soy un desarrollador especializado en la implementación de soluciones con Intel
 ---
 
 ### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Negerty48&theme=vue-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Negerty48&theme=vue-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
