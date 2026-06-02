@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://www.linkedin.com/in/%C3%A1ngel-toledo-rodelgo-784231313/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -52,7 +52,7 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 **Lenguajes de Programación:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
@@ -65,7 +65,7 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 
 **Cloud & Herramientas:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -73,4 +73,5 @@ Aquí tienes algunos de los repositorios que mejor reflejan mi trabajo, evoluci�
 ---
 
 ### 📊 Mis Estadísticas en GitHub
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Negerty48&theme=vue-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
